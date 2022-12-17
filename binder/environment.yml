@@ -18,4 +18,22 @@ dependencies:
   - scikit-learn
   - xeus=0.23
   - xeus-python
+  - r-irkernel
+  - r-modeest
+  - r-corrplot
+  - r-parsnip
+  - r-rlang=1.0.3
+  - r-vctrs=0.4.1
+  - r-glue=1.6.2
+  - r-tidyverse
+  - r-tibble=3.1.7
+  - r-tidymodels
+  - r-caret
+  - r-kknn
+  - r-corrr
+  - r-janitor
+  - r-ggally
+  - r-factoextra
+  - r-ggfortify
+  - r-psych
     
