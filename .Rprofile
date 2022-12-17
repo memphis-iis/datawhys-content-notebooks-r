@@ -1,4 +1,4 @@
-options(repr.matrix.max.rows = 10, repr.matrix.max.cols = 100)
+options(repr.matrix.max.rows = 14, repr.matrix.max.cols = 100)
 options(repr.font.family='DejaVu Sans')
 options(repr.plot.pointsize = 24)
 options(repr.plot.res = 240)

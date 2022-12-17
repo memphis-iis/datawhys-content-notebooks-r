@@ -36,4 +36,4 @@ dependencies:
   - r-factoextra
   - r-ggfortify
   - r-psych
-    
+  - r-glmnet
