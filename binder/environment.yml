@@ -37,3 +37,17 @@ dependencies:
   - r-ggfortify
   - r-psych
   - r-glmnet
+  - r-rpart.plot
+  - r-partykit
+  - r-baguette
+  - r-ranger
+  - r-vip
+  - r-remotes
+  - r-xgboost
+  - r-kernlab
+  - r-klar
+  - r-naivebayes
+  - r-stacks
+  - r-furrr
+  - r-mlbench
+  - r-scales
